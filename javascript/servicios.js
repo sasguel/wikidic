@@ -1,5 +1,5 @@
 function irPaginaDos(){
-	window.location.href="http:www.facebook.com"
+	window.location.href="#pagina2"
 }
 
 function volver(){
